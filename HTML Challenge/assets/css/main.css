@@ -3,7 +3,7 @@
 }
 
 .pt5 {
-    padding-top: 3vh;
+    padding-top: 3vh; /* RIP IE <= 10 */
 }
 
 .divider {
