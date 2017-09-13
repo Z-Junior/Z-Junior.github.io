@@ -1,3 +1,5 @@
-new Vue({
-  el: '#app'
+const router = new VueRouter({
+  routes: [
+      
+  ]
 });
