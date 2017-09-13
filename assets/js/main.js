@@ -1,9 +1,9 @@
 const router = new VueRouter({
   routes: [
       {
-          path: '/projects',
+          path: '/about',
           component: {
-              template: '/assets/templates/Projects.Vue'
+              template: '/assets/templates/About.Vue'
           }
       }
   ]
